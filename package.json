@@ -1,0 +1,12 @@
+{
+  "author": "Tom Wilson <tom@jackhq.com>",
+  "name": "prop",
+  "description": "Functional property method",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
