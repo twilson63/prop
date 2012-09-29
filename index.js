@@ -1,3 +1,5 @@
+var dotty = require("dotty").get
+
 // prop
 //
 // functional routine to get a property from an object
@@ -7,7 +9,7 @@
 //
 module.exports = function(name) {
   return function(object) {
-    return object[name];
+    return dotty(object, name)
   }
 }
 
