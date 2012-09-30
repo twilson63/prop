@@ -7,6 +7,10 @@ Functional method to get a property from an object.
 ``` javascript
 var obj = {foo: 'bar'}
 var result = prop('foo')(obj)
+
+// Also with nested properties
+var nested = { foo: { bar: "baz" }}
+var result = prop("foo.bar")(nested)
 ```
 ## install
 
