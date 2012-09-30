@@ -2,7 +2,7 @@
   "author": "Tom Wilson <tom@jackhq.com>",
   "name": "prop",
   "description": "Functional property method",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://github.com/twilson63/prop",
   "repository": {
     "url": "git://github.com/twilson63/prop.git"

@@ -22,6 +22,11 @@ npm install prop
 
 pull requests welcome
 
+## contributors
+
+* twilson63
+* Raynos
+
 ## license
 
 MIT
